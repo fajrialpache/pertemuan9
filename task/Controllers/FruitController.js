@@ -3,7 +3,7 @@
  * - import fruits dari data/fruits.js
  * - refactor variabel ke ES6 variable
  */
-var fruits = require("../data/fruits.js");
+const fruits = require("../data/fruits.js");
 
 /**
  * TODO 4:
